@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerUnit : MonoBehaviour
 {
-
+    public int health; //Changes from Mekenzy
     public int averageSkill;
     public int troopCount;
     public int combatPower;

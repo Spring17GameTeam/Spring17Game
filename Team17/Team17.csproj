@@ -79,6 +79,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\BoardManager.cs" />
+    <Compile Include="Assets\Scripts\Combat\Attack.cs" />
+    <Compile Include="Assets\Scripts\Combat\BattleStateStart.cs" />
+    <Compile Include="Assets\Scripts\Combat\CombatAbilities.cs" />
+    <Compile Include="Assets\Scripts\Combat\TurnBasedCombat.cs" />
+    <Compile Include="Assets\Scripts\CombatAbilities.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\Loader.cs" />
     <Compile Include="Assets\Scripts\MoveButton.cs" />
